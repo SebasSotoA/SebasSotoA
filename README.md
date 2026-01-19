@@ -2,15 +2,11 @@
 
 ###
 
-<p align="left">Soy estudiante de Ingeniería de Sistemas e Informática en la Universidad Pontificia Bolivariana, apasionado por el desarrollo de software, el aprendizaje continuo y los nuevos retos. Cuento con seis meses de experiencia como desarrollador en una fábrica de software, donde participé en proyectos full-stack utilizando tecnologías como JavaScript, React y C#.<br><br>Tengo habilidades en levantamiento de requerimientos, integración y despliegue continuo (CI/CD), y metodologías ágiles como SCRUM. Además, poseo experiencia trabajando con bases de datos como PostgreSQL y con plataformas de abstracción modernas como Firebase y Supabase. Valoro la comunicación efectiva y el trabajo en equipo como pilares fundamentales para el éxito de cualquier proyecto.</p>
-
-###
-
 <h2 align="left">Sobre mí</h2>
 
 ###
 
-<p align="left">📚 Actualmente aprendiendo ciberseguridad y DevOps en la nube<br>🎲 Dato curioso: me gusta aprender algo nuevo cada semana, sin importar el tema</p>
+<p align="left">📚 Actualmente aprendiendo DevOps en la nube<br>🎲 Dato curioso: Me gusta crear valor</p>
 
 ###
 
