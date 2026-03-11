@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Actualmente aprendiendo DevOps en la nube<br>🎲 Dato curioso: Me gusta crear valor</p>
+<p align="left">📚 Actualmente aprendiendo DevOps en AWS<br>🎲 Dato curioso: Me gusta crear valor</p>
 
 ###
 
